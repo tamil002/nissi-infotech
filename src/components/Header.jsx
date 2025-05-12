@@ -10,7 +10,7 @@ const Header = () => {
     return (
         <div className='flex justify-between px-3 md:h-[10vh] bg-white'>
             <div>
-                <img className='w-[120px] h-[40px] mt-2 md:mb-2' src='logo.png' />
+                <img className='w-[120px] h-[40px] mt-2 md:mb-2' src='logo.jpg' />
             </div>
             <div>
                 <nav>
