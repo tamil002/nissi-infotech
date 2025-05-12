@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { IoIosMenu } from "react-icons/io";
-import logo from '../assets/react.svg';
 
 
 
@@ -11,7 +10,7 @@ const Header = () => {
     return (
         <div className='flex justify-between px-3 md:h-[10vh] bg-white'>
             <div>
-                <img className='w-[120px] h-[40px] mt-2 md:mb-2' src={logo} alt="Logo" />
+                <img className='w-[120px] h-[40px] mt-2 md:mb-2' src='nissi-logo.png' alt="Logo" />
             </div>
             <div>
                 <nav>
