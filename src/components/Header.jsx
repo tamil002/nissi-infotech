@@ -10,7 +10,13 @@ const Header = () => {
     return (
         <div className='flex justify-between px-3 md:h-[10vh] bg-white'>
             <div>
-                <h1 className="text-lg"><span className="text-sky-500">N</span>ssi <span className="text-sky-500">I</span>nfotech</h1>
+                <img
+
+                    src='nissi-logo.png'
+                    alt="Logo"
+                    className="w-[120px] h-[40px] mt-2 md:mb-2"
+
+                />
             </div>
             <div>
                 <nav>
