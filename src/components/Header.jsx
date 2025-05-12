@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { IoIosMenu } from "react-icons/io";
-import logo from '../components/images/logo.png';
+import logo from './images/logo.png';
 
 
 
